@@ -8,6 +8,7 @@ public class blabla extends JFrame implements MouseListener {
     JButton button = new JButton();
     JButton button2 = new JButton();
     JPanel panel = new JPanel();
+    JButton buttonTest = new JButton();
     blabla(){
         add(panel);
         panel.add(button);
